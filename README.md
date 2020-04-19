@@ -5,8 +5,7 @@ hey, thanks for downloading my hud, sorry it kinda sucks :/
 to install go to /Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/ 
 
 and then plop cayhud in the folder, if you dont have a /custom/ folder, just make one
-
-
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 if you're having trouble finding your tf folder, right click TF2 in your steam library
 
 click "Properties"
